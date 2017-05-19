@@ -10,6 +10,8 @@ use ':' to insert letters
 
 esc: escape
 
+bye
+
 
 
 
